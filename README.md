@@ -1,5 +1,5 @@
 # Facebash v1.0
-## Author: github.com/thelinuxchoice
+## Author: thelinuxchoice
 ## IG: @thelinuxchoice
 Facebook Brute Forcer in shellscript using TOR
 
@@ -23,7 +23,7 @@ Facebook blocks account for 1 hour after 20 wrong passwords, so this script can 
 ### Usage:
 
 ```
-git clone https://github.com/thelinuxchoice/facebash
+git clone https://github.com/fu8uk1/facebash
 cd instashell
 chmod +x facebash.sh
 service tor start
@@ -36,7 +36,4 @@ sudo ./facebash.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
-### Donate!
-Support the authors:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
